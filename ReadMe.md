@@ -9,6 +9,8 @@ In the United States, around 2 to 3 out of every 1,000 children are born with a 
 
 We're creating our own dataset because our research is built on a vision-based approach that necessitates the use of raw images. The most generally available dataset for sign language problems is in RGB format, which is incompatible with our needs. As a result, we decided to gather our own data.
 
+![Format of Data](https://github.com/HarukaGeorge/Sign-Language-detection-sentiment-analysis/blob/master/images/data_format.jpg)
+
 In our original dataset of raw images we apply the Gaussian Blur Filter to the images, which aids in the extraction of numerous features. A Gaussian Filter is a low-pass filter that is used to reduce noise (high-frequency components) and blur picture regions.
 
 
