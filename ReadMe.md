@@ -11,9 +11,13 @@ We're creating our own dataset because our research is built on a vision-based a
 
 ![Format of Data](https://github.com/HarukaGeorge/Sign-Language-detection-sentiment-analysis/blob/master/images/data_format.jpg)
 
+![Data Collection](https://github.com/HarukaGeorge/Sign-Language-detection-sentiment-analysis/blob/master/images/data_collection.jpg)
+
 In our original dataset of raw images we apply the Gaussian Blur Filter to the images, which aids in the extraction of numerous features. A Gaussian Filter is a low-pass filter that is used to reduce noise (high-frequency components) and blur picture regions.
 
+A glimpse of dataset: 
 
+![Glimpse of data](https://github.com/HarukaGeorge/Sign-Language-detection-sentiment-analysis/blob/master/images/data_glimpse.jpg)
 
 ## Process
 
@@ -27,3 +31,21 @@ In our original dataset of raw images we apply the Gaussian Blur Filter to the i
 - The model can be enhanced by adding the functionality of predicting the sentiment for entire sentences, it is one of the future scopes of the project
 - Furthermore, even in the case of complex backgrounds, greater accuracy can be attained by experimenting with different background subtraction techniques
 - For the model, a web or mobile application can be developed so that it is easily accessible regardless of device type or location
+
+## Demos
+
+Detection of word "CAT"
+
+<img src="https://github.com/HarukaGeorge/Sign-Language-detection-sentiment-analysis/blob/master/images/demo1.jpg" width="240" height="300" /> <img src="https://github.com/HarukaGeorge/Sign-Language-detection-sentiment-analysis/blob/master/images/demo2.jpg" width="240" height="300" /> <img src="https://github.com/HarukaGeorge/Sign-Language-detection-sentiment-analysis/blob/master/images/demo3.jpg" width="240" height="300" /> <img src="https://github.com/HarukaGeorge/Sign-Language-detection-sentiment-analysis/blob/master/images/demo4.jpg" width="240" height="300" /> 
+
+
+
+Detecting sentence "I am good" and showing sentiment "Positive"
+![Demo6](https://github.com/HarukaGeorge/Sign-Language-detection-sentiment-analysis/blob/master/images/demo6.png)
+
+<video src="https://github.com/HarukaGeorge/Sign-Language-detection-sentiment-analysis/blob/master/images/demo_video1.mp4" controls="controls" style="max-width: 730px;">
+</video>
+
+![Demo_vid1](https://github.com/HarukaGeorge/Sign-Language-detection-sentiment-analysis/blob/master/images/demo_video1.mp4)
+
+![Demo_vid2](https://github.com/HarukaGeorge/Sign-Language-detection-sentiment-analysis/blob/master/images/demo_video2.mp4)
