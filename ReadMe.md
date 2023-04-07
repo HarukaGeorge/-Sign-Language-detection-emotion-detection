@@ -43,9 +43,3 @@ Detection of word "CAT"
 Detecting sentence "I am good" and showing sentiment "Positive"
 ![Demo6](https://github.com/HarukaGeorge/Sign-Language-detection-sentiment-analysis/blob/master/images/demo6.png)
 
-<video src="https://github.com/HarukaGeorge/Sign-Language-detection-sentiment-analysis/blob/master/images/demo_video1.mp4" controls="controls" style="max-width: 730px;">
-</video>
-
-![Demo_vid1](https://github.com/HarukaGeorge/Sign-Language-detection-sentiment-analysis/blob/master/images/demo_video1.mp4)
-
-![Demo_vid2](https://github.com/HarukaGeorge/Sign-Language-detection-sentiment-analysis/blob/master/images/demo_video2.mp4)
