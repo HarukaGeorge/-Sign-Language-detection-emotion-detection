@@ -23,7 +23,7 @@ A glimpse of dataset:
 
 * Run code DirectoryCreation_DataCollection.ipynb, this will create two directories: dataSet (data collection) and final_dataSet (train test split) and collect the raw images by making the signs in the blue box that appears on screen while using keyboard entry to save the frame to dataSet directory (only if you want to create your own dataset)
 * Apply Gaussian Blur to captured raw images and splitting the collected data into train and test folders in the final_dataSet directory by running the GaussianBlur_TrainTestSplit.ipynb (only if you want to create your own dataset)
-* Run the Model_Building.ipynb file to train the model and view accuracy/ loss results and saves model into JSON format (model_file.json) and model weights (model_wt.h5) to use in final GUI_SignLanguage.ipynb
+* Run the Model_Building.py file to train the model and view accuracy/ loss results and saves model into JSON format (model_file.json) and model weights (model_wt.h5) to use in final GUI_SignLanguage.ipynb
 * To open the GUI to start sign language translation, run GUI_SignLanguage.ipynb  the  file 
 
 ## Outcomes and Findings
